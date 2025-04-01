@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\devni\\Desktop\\Git\\Group_Activity_1_Task_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37DC2C48-E4D8-47F8-B384-7669C46E353F}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\devni\\desktop\\git\\group_activity_1_task_management_system\\taskmanagementsystem\\models\\databasehepler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DC2C48-E4D8-47F8-B384-7669C46E353F}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\models\\databasehepler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHepler.cs",
+              "DocumentMoniker": "C:\\Users\\devni\\Desktop\\Git\\Group_Activity_1_Task_Management_System\\TaskManagementSystem\\Models\\DatabaseHepler.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Models\\DatabaseHepler.cs",
+              "ToolTip": "C:\\Users\\devni\\Desktop\\Git\\Group_Activity_1_Task_Management_System\\TaskManagementSystem\\Models\\DatabaseHepler.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Models\\DatabaseHepler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:02:58.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
